@@ -1,0 +1,7 @@
+/target/
+.classpath
+.project
+/.idea
+/.settings
+Weather.iml
+/out
